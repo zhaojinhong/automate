@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from fabric import *
+from fabric.api import *
 
 env.user='root'
 env.password='111111'
